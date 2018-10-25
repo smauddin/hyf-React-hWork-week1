@@ -11,9 +11,9 @@ class App extends Component {
 
     this.state = {
       todos: [
-        { id: 0, text: "Get out of Bed, Wed sep 13 2018" },
-        { id: 1, text: "Brush teeth, Thu Sep 14 2018" },
-        { id: 2, text: "Eat breakfast, Fri Sep 15 2017" }
+        { id: 0, text: "Get out of Bed" },
+        { id: 1, text: "Brush teeth" },
+        { id: 2, text: "Eat breakfast" }
       ],
       nextId: 3
     };
